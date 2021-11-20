@@ -13,7 +13,7 @@ exports.config = {
       show: true,
       windowSize: '1200x900',
       chrome: {
-        // Menggunakan chrome
+        // Using chrome
         executablePath: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
       },
     },
